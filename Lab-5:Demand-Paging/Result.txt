@@ -1,0 +1,127 @@
+Process id 4 dispatched
+for page reference 3, TLB hit with frame no. 3
+for page reference 2, TLB hit with frame no. 2
+for page reference 3, TLB hit with frame no. 3
+for page reference 2, TLB hit with frame no. 2
+for page reference 2, TLB hit with frame no. 2
+for page reference 2, TLB hit with frame no. 2
+Process id 4 end of execution with page faults : 0
+Process id 5 dispatched
+for page reference 3, TLB hit with frame no. 3
+for page reference 2, TLB hit with frame no. 2
+for page reference 6, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 4
+for page reference 5, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+for page reference 5, TLB hit with frame no. 5
+for page reference 7, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 1
+for page reference 7, TLB hit with frame no. 1
+for page reference 4, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 3
+for page reference 6, TLB miss -> Page Table valid -> with frame no. 4
+for page reference 1, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 2
+for page reference 7, TLB miss -> Page Table valid -> with frame no. 1
+for page reference 1, TLB hit with frame no. 2
+for page reference 8, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+for page reference 3, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 3
+for page reference 5, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 4
+for page reference 5, TLB hit with frame no. 4
+for page reference 6, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 1
+for page reference 8, TLB miss -> Page Table valid -> with frame no. 5
+for page reference 6, TLB hit with frame no. 1
+for page reference 7, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 2
+for page reference 3, TLB miss -> Page Table valid -> with frame no. 3
+for page reference 2, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 4
+for page reference 8, TLB miss -> Page Table valid -> with frame no. 5
+for page reference 2, TLB hit with frame no. 4
+for page reference 4, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 1
+for page reference 2, TLB hit with frame no. 4
+for page reference 2, TLB hit with frame no. 4
+for page reference 3, TLB miss -> Page Table valid -> with frame no. 3
+for page reference 3, TLB hit with frame no. 3
+for page reference 8, TLB miss -> Page Table valid -> with frame no. 5
+for page reference 8, TLB hit with frame no. 5
+for page reference 3, TLB hit with frame no. 3
+for page reference 5, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 2
+for page reference 4, TLB miss -> Page Table valid -> with frame no. 1
+for page reference 6, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 4
+Process id 5 end of execution with page faults : 14
+Process id 2 dispatched
+for page reference 5, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 4
+for page reference 6, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+for page reference 6, TLB hit with frame no. 5
+for page reference 2, TLB miss -> Page Table valid -> with frame no. 2
+for page reference 1, TLB miss -> Page Table valid -> with frame no. 1
+for page reference 2, TLB hit with frame no. 2
+for page reference 4, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 3
+for page reference 5, TLB miss -> Page Table valid -> with frame no. 4
+for page reference 7, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+for page reference 2, TLB miss -> Page Table valid -> with frame no. 2
+for page reference 2, TLB hit with frame no. 2
+for page reference 6, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 1
+for page reference 2, TLB hit with frame no. 2
+for page reference 7, TLB hit with frame no. 5
+for page reference 6, TLB hit with frame no. 1
+for page reference 7, TLB hit with frame no. 5
+for page reference 2, TLB hit with frame no. 2
+for page reference 6, TLB hit with frame no. 1
+for page reference 1, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 3
+for page reference 5, TLB miss -> Page Table valid -> with frame no. 4
+for page reference 4, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+Process id 2 end of execution with page faults : 7
+Process id 1 dispatched
+for page reference 3, TLB hit with frame no. 3
+for page reference 3, TLB hit with frame no. 3
+for page reference 2, TLB hit with frame no. 2
+for page reference 2, TLB hit with frame no. 2
+for page reference 3, TLB hit with frame no. 3
+for page reference 2, TLB hit with frame no. 2
+for page reference 2, TLB hit with frame no. 2
+for page reference 1, TLB hit with frame no. 1
+for page reference 3, TLB hit with frame no. 3
+for page reference 2, TLB hit with frame no. 2
+for page reference 3, TLB hit with frame no. 3
+for page reference 2, TLB hit with frame no. 2
+for page reference 3, TLB hit with frame no. 3
+for page reference 3, TLB hit with frame no. 3
+for page reference 2, TLB hit with frame no. 2
+for page reference 1, TLB hit with frame no. 1
+for page reference 3, TLB hit with frame no. 3
+for page reference 3, TLB hit with frame no. 3
+Process id 1 end of execution with page faults : 0
+Process id 3 dispatched
+for page reference 7, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 4
+for page reference 9, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+for page reference 6, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 1
+for page reference 7, TLB hit with frame no. 4
+for page reference 7, TLB hit with frame no. 4
+for page reference 5, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 2
+for page reference 6, TLB hit with frame no. 1
+for page reference 7, TLB hit with frame no. 4
+for page reference 9, TLB miss -> Page Table valid -> with frame no. 5
+for page reference 8, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 3
+for page reference 6, TLB miss -> Page Table valid -> with frame no. 1
+for page reference 3, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 2
+for page reference 4, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 4
+for page reference 1, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+for page reference 1, TLB hit with frame no. 5
+for page reference 8, TLB miss -> Page Table valid -> with frame no. 3
+for page reference 9, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 1
+for page reference 4, TLB miss -> Page Table valid -> with frame no. 4
+for page reference 3, TLB miss -> Page Table valid -> with frame no. 2
+for page reference 6, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+for page reference 6, TLB hit with frame no. 5
+for page reference 3, TLB hit with frame no. 2
+for page reference 3, TLB hit with frame no. 2
+for page reference 3, TLB hit with frame no. 2
+for page reference 6, TLB hit with frame no. 5
+for page reference 6, TLB hit with frame no. 5
+for page reference 6, TLB hit with frame no. 5
+for page reference 8, TLB miss -> Page Table valid -> with frame no. 3
+for page reference 2, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 1
+for page reference 2, TLB hit with frame no. 1
+for page reference 8, TLB hit with frame no. 3
+for page reference 8, TLB hit with frame no. 3
+for page reference 5, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 4
+for page reference 1, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 2
+for page reference 7, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 5
+for page reference 4, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 1
+for page reference 9, TLB miss -> Page Table invalid -> page_fault_hnadler invoked -> frame no. 3
+Process id 3 end of execution with page faults : 16
